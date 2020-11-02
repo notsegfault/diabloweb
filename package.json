@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "diabloweb",
   "version": "1.0.39",
   "private": true,
   "dependencies": {
@@ -138,7 +138,7 @@
       "react-app"
     ]
   },
-  "homepage": "https://d07riv.github.io/diabloweb",
+  "homepage": "https://diabloweb.vercel.app/",
   "devDependencies": {
     "exports-loader": "^0.7.0",
     "gh-pages": "^2.0.1",
